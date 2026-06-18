@@ -83,6 +83,6 @@ I'm a backend engineer from Bengaluru, India, with a B.Tech from IIT Roorkee. I 
 [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white)](https://shorturl.at/6y1kB)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshpal.is-a.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theharshpal2306@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harrsshh)
 
 </div>
