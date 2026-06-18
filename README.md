@@ -52,7 +52,7 @@ I'm a backend engineer from Bengaluru, India, with a B.Tech from IIT Roorkee. I 
 
 ### 🏆 Achievements
 
-- Specialist on Codeforces and Knight on LeetCode, with 1000+ problems solved
+- Expert on Codeforces and Knight on LeetCode, with 1000+ problems solved
 - Professional Development and Innovation Award, IIT Roorkee Convocation 2024
 - Globalink Research Fellow, published research on thermal conductivity modeling in BioResources Journal
 
